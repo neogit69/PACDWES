@@ -1,0 +1,55 @@
+#contenedor-menu {
+    background-color: rgb(30, 68, 126);
+    margin-bottom: 10px;
+    border:solid 2px;
+    /* display: inline; */
+    
+}
+
+
+.menu ul li {
+    display: inline;
+    margin:5px;
+    font-size: 1.3em;
+    width: 50%;
+}
+
+#estado{
+    background-color: rgb(41, 79, 160);
+}
+p.info-usuario{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.menu ul li:hover {
+    background-color: rgb(83, 83, 83);
+    
+}
+
+.menu ul li a{
+    display: inline;
+    color: white;
+    text-decoration: none;
+}
+
+
+table.lista-noticias {
+    width: 70%;
+    margin: auto;
+}
+
+#contenedor-cuerpo {
+    background-color: rgb(219, 223, 223);
+    margin-bottom: 10px;
+    padding: 20px;
+    /* border:solid 2px; */
+}
+                
+.error{
+    color: red;
+}
+
+h2.nombre-pagina{
+    text-align: center;
+    color: blue;
+}
